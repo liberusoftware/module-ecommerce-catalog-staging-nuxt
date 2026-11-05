@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-catalog-staging-nuxt",
+  "capabilityKey": "planned:ecommerce:catalog-staging",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-catalog-staging-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/catalog-staging.md",
+  "presentationPlan": "projects/ecommerce/nuxt/catalog-staging.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
